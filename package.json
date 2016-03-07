@@ -1,0 +1,27 @@
+{
+  "name": "mad",
+  "version": "1.0.0",
+  "description": "for learning",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.9.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastsho/mad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lastsho/mad/issues"
+  },
+  "homepage": "https://github.com/lastsho/mad#readme"
+}
